@@ -13,5 +13,6 @@ SpawnsCore, set a spawn in a variety of commands! Simple.
   * /spawns reset spawn
   * /spawns reset lobby
   
+  
   > Feel free to leave me plugin suggestions at [GitHub](http://github.com)
 
