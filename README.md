@@ -17,4 +17,6 @@ SpawnsCore, set a spawn in a variety of commands! Simple.
   * - [ ] Add an option to add your own spawn teleportation command
   
   > Feel free to leave me plugin suggestions at [GitHub](http://github.com)
+  
+  [![HitCount](http://hits.dwyl.io/flucid/SpawnsCore.svg)](http://hits.dwyl.io/flucid/SpawnsCore)
 
