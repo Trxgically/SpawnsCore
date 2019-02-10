@@ -1,7 +1,7 @@
-# spawnscore
+# SpawnsCore
 SpawnsCore, set a spawn in a variety of commands! Simple.
 
-Commands -
+# Commands :
 
 /spawns sethub
 /spawns setspawn
