@@ -1,1 +1,9 @@
+name: SpawnsCore
+main: Trxgically\SpawnsCore\Main
+api: 3.0.0
+version: 0.1
+author: Trxgically
+commands:
+ sc:
+  description: "SpawnsCore default command"
 
