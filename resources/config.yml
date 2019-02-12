@@ -1,19 +1,66 @@
 ---
+ # Use an § here for the colors of the text
+ # Formatting Codes : https://minecraft.gamepedia.com/Formatting_codes
+
+# Message colors
+
+ theme:
+    color1: "§4"
+    color2: "§c"
+    color3: "§7"
+    color4: "§f"
+    color5: "§0"
+
+# Set the message prefix
+
+ prefix: ""   
+
+
+# Spawn points
+  # hub
+
  hspawn-point:
     x: ""
     y: ""
     z: ""
+
+  # spawn
+
  sspawn-point:
     x: ""
     y: ""
     z: ""
+
+  # lobby
+
  lspawn-point:
     x: ""
     y: ""
     z: ""
-    
- #Use an § here for the colors of the text
- #Formatting Codes : https://minecraft.gamepedia.com/Formatting_codes
- theme: "§"
+
+# DO NOT TOUCH THIS !
+ set:
+    hub: false
+    spawn: false
+    lobby: false
 ...
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
