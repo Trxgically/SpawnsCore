@@ -1,4 +1,5 @@
 # SpawnsCore
+![alt text](https://raw.githubusercontent.com/Flucid/SpawnsCore/master/icon.png)
 SpawnsCore, set a spawn in a variety of commands! Simple.
 
 # Commands :
