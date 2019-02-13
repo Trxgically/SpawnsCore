@@ -15,6 +15,12 @@ SpawnsCore, set a spawn in a variety of commands! Simple.
   * /sc resetspawn
   * /sc resetlobby
   
+* Go to a spawnpoint that has been set with one of the commands above
+
+  * /hub
+  * /spawn
+  * /lobby
+  
 * To-Do list:
   * - [ ] Add an option to add your own spawn teleportation command
   
