@@ -6,4 +6,9 @@ author: Trxgically
 commands:
  sc:
   description: "SpawnsCore default command"
-
+ hub:
+  description: "Teleport to the hub spawnpoint"
+ spawn:
+  description: "Teleport to the spawn spawnpoint"
+ lobby:
+  description: "Teleport to the lobby spawnpoint"
