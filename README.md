@@ -1,7 +1,8 @@
 # SpawnsCore
 ![alt text](https://raw.githubusercontent.com/Flucid/SpawnsCore/master/icon.png)
 
-SpawnsCore, set a spawn in a variety of commands! Simple.
+# Why use SpawnsCore?
+SpawnsCore, set a spawn in a variety of commands! Simple. SpawnsCore has a highly customizable configuration file with more to come. SpawnsCore has the ability to set multiple spawnpoints, simple and fast!
 
 # Commands :
 * Set a spawn
@@ -23,6 +24,7 @@ SpawnsCore, set a spawn in a variety of commands! Simple.
   
 * To-Do list:
   * - [ ] Add an option to add your own spawn teleportation command
+  * - [ ] Add an option to use a UI.
   
   > Feel free to leave me plugin suggestions at [Discord](https://discord.gg/VGduZVD)
   
