@@ -27,6 +27,6 @@ SpawnsCore, set a spawn in a variety of commands! Simple. SpawnsCore has a highl
   * - [ ] Add an option to use a UI.
   
   > Feel free to leave me plugin suggestions at [Discord](https://discord.gg/VGduZVD)
-  
+  > Credits to [Atomization](https://github.com/Atomization) for helping me with a few problems!
   [![HitCount](http://hits.dwyl.io/flucid/SpawnsCore.svg)](http://hits.dwyl.io/flucid/SpawnsCore)
 <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 		    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 		    title="Creative Commons BY 3.0" target="_blank">CC 3.0</a></div>
