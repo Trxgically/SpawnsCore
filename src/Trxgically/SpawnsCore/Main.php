@@ -60,22 +60,40 @@ class Main extends PluginBase implements Listener {
 								break;
 
 							case "resethub":
-								$this->config->setNested("set.hub", false);
-								$this->config->save();
-								$sender->sendMessage($color5 . "[" . $color2 . $px . $color5 . "]" . TF::RESET . " Spawnpoint has successfully been reset!");
+								if ($this->config->getNested("set.prefix", true){
+$this->config->setNested("set.hub", false);
+$this->config->save();
+$sender->sendMessage($color5 . "[" . $color2 . $px . $color5 . "]" . TF::RESET . " Spawnpoint has successfully been reset!");
+} elseif ($this->config->getNested("set.prefix", false){
+$this->config->setNested("set.hub", false);
+$this->config->save();
+$sender->sendMessage("Spawnpoint has successfully been reset!");
+}
 								break;
 								
 							case "resetspawn":
-								$this->config->setNested("set.spawn", false);
-								$this->config->save();
-								$sender->sendMessage($color5 . "[" . $color2 . $px . $color5 . "]" . TF::RESET . " Spawnpoint has successfully been reset!");
+								if ($this->config->getNested("set.prefix", true){
+$this->config->setNested("set.spawn", false);
+$this->config->save();
+$sender->sendMessage($color5 . "[" . $color2 . $px . $color5 . "]" . TF::RESET . " Spawnpoint has successfully been reset!");
+} elseif ($this->config->getNested("set.prefix", false){
+$this->config->setNested("set.spawn", false);
+$this->config->save();
+$sender->sendMessage("Spawnpoint has successfully been reset!");
+}
 								break;
 
 							case "resetlobby":
-								$this->config->setNested("set.lobby", false);
-								$this->config->save();
-								$sender->sendMessage($color5 . "[" . $color2 . $px . $color5 . "]" . TF::RESET . " Spawnpoint has successfully been reset!");
-								break;
+								if ($this->config->getNested("set.prefix", true){
+$this->config->setNested("set.lobby", false);
+$this->config->save();
+$sender->sendMessage($color5 . "[" . $color2 . $px . $color5 . "]" . TF::RESET . " Spawnpoint has successfully been reset!");
+} elseif ($this->config->getNested("set.prefix", false){
+$this->config->setNested("set.lobby", false);
+$this->config->save();
+$sender->sendMessage("Spawnpoint has successfully been reset!");
+}
+	                                                        break;
 						}
 					}
 				} else {
