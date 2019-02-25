@@ -25,6 +25,8 @@ SpawnsCore, set a spawn in a variety of commands! Simple. SpawnsCore has a highl
 * To-Do list:
   * - [ ] Add an option to add your own spawn teleportation command
   * - [ ] Add an option to use a UI.
+  * - [ ] Add an option to enable or disable the prefix.
+  * - [ ] Add an option to customize the prefix.
   
   > Feel free to leave me plugin suggestions at [Discord](https://discord.gg/VGduZVD) also credits to [Atomization](https://github.com/Atomization) for helping me with a few issues!
   
