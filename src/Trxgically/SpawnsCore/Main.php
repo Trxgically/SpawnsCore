@@ -50,7 +50,7 @@ $this->setHub = true;
 $sender->sendMessage($color5 . "[" . $color2 . $px . $color5 . "]" . TF::RESET . " Please click or tap where you would like to set the spawnpoint");
 } elseif ($this->config->getNested("set.prefix", false){
 this->setHub = true;
-$sender->sendMessage(“Please click or tap where you would like to set the spawnpoint");
+$sender->sendMessage("Please click or tap where you would like to set the spawnpoint");
 }
 
 								break;
@@ -61,7 +61,7 @@ $this->setSpawn = true;
 $sender->sendMessage($color5 . "[" . $color2 . $px . $color5 . "]" . TF::RESET . " Please click or tap where you would like to set the spawnpoint");
 } elseif ($this->config->getNested("set.prefix", false){
 this->setSpawn = true;
-$sender->sendMessage(“Please click or tap where you would like to set the spawnpoint");
+$sender->sendMessage("Please click or tap where you would like to set the spawnpoint");
 }
 
 								break;
@@ -72,7 +72,7 @@ $this->setLobby = true;
 $sender->sendMessage($color5 . "[" . $color2 . $px . $color5 . "]" . TF::RESET . " Please click or tap where you would like to set the spawnpoint");
 } elseif ($this->config->getNested("set.prefix", false){
 this->setLobby = true;
-$sender->sendMessage(“Please click or tap where you would like to set the spawnpoint");
+$sender->sendMessage("Please click or tap where you would like to set the spawnpoint");
 }
 								break;
 
