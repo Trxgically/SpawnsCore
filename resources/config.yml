@@ -23,13 +23,14 @@
     x: ""
     y: ""
     z: ""
-
+    world:
   # spawn
 
  sspawn-point:
     x: ""
     y: ""
     z: ""
+    world:
 
   # lobby
 
@@ -37,6 +38,7 @@
     x: ""
     y: ""
     z: ""
+    world:
 
 # DO NOT TOUCH THIS !
  set:
