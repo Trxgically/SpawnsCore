@@ -82,6 +82,7 @@ class Main extends PluginBase implements Listener {
 				break;
 			
 			case "hub":
+				if($sender instanceof Player){
 				if ($this->config->getNested("set.hub") === false) {
 					$sender->sendMessage($color5 . "[" . $color2 . "SC" . $color5 . "]" . TF::RESET . " There is no current hub set!");
 				} elseif ($this->config->getNested("set.hub") === true) {
@@ -94,9 +95,11 @@ class Main extends PluginBase implements Listener {
 
 					$sender->teleport(new Position($x, $y, $z, $world));
 				}
+			}
 				break;
 
 			case "spawn":
+				if($sender instanceof Player){
 				if ($this->config->getNested("set.spawn") === false) {
 					$sender->sendMessage($color5 . "[" . $color2 . "SC" . $color5 . "]" . TF::RESET . " There is no current spawn set!");
 				} elseif ($this->config->getNested("set.spawn") === true) {
@@ -109,9 +112,11 @@ class Main extends PluginBase implements Listener {
 
 					$sender->teleport(new Position($x, $y, $z, $world));
 				}
+			}
 				break;
 
 			case "lobby":
+				if($sender instanceof Player){
 				if ($this->config->getNested("set.lobby") === false) {
 					$sender->sendMessage($color5 . "[" . $color2 . "SC" . $color5 . "]" . TF::RESET . " There is no current lobby set!");
 				} elseif ($this->config->getNested("set.lobby") === true) {
@@ -124,6 +129,7 @@ class Main extends PluginBase implements Listener {
 
 					$sender->teleport(new Position($x, $y, $z, $world));
 				}
+			}
 				break;
 		}
 		return true;
