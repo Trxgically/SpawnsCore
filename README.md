@@ -28,7 +28,7 @@ SpawnsCore, set a spawn in a variety of commands! Simple. SpawnsCore has a highl
   * - [ ] Add an option to enable or disable the prefix.
   * - [ ] Add an option to customize the prefix.
   
-  > Feel free to leave me plugin suggestions at [Discord](https://discord.gg/VGduZVD) also credits to [Atomization](https://github.com/Atomization) for helping me with a few issues!
+  > Feel free to leave me plugin suggestions at [Discord](https://discord.gg/bkcByHZ) also credits to [Atomization](https://github.com/Atomization) for helping me with a few issues!
   
   [![](https://poggit.pmmp.io/shield.state/SpawnsCore)](https://poggit.pmmp.io/p/SpawnsCore)
 <a href="https://poggit.pmmp.io/p/SpawnsCore"><img src="https://poggit.pmmp.io/shield.state/SpawnsCore"></a>
