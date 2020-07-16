@@ -38,6 +38,7 @@ class Main extends PluginBase implements Listener {
 		switch ($command->getName()) {
 			case 'sc':
 				if ($sender->hasPermission("sc.cmd")){
+                                If(!$sender instancoef Player) return false;
 					if (count($args) === 0) {
 						$sender->sendMessage($color1 . TF::BOLD . "SpawnsCore Commands :" . TF::RESET . "\n" . "\n" . $color2 . "/sc sethub" . $color3 . " - Set the player spawnpoint of /hub" . "\n" . $color2 . "/sc setspawn" . $color3 . " - Set the player spawnpoint of /spawn" . "\n" . $color2 . "/sc setlobby" . $color3 . " - Set the player spawnpoint of /lobby" . "\n" . "\n" . $color2 . "/sc resethub" . $color3 . " - Reset the player spawnpoint of /hub" . "\n" . $color2 . "/sc resetspawn" . $color3 . " - Reset the player spawnpoint of /spawn" . "\n" . $color2 . "/sc resetlobby" . $color3 . " - Reset the player spawnpoint of /lobby" . "\n" . "\n" . $color2 . "/hub" . $color3 . " - Teleport to the /hub player spawnpoint" . "\n" . $color2 . "/spawn" . $color3 . " - Teleport to the /spawn player spawnpoint" . "\n" . $color2 . "/lobby" . $color3 . " - Teleport to the /lobby player spawnpoint");
 					} else {
