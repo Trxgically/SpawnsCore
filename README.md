@@ -1,6 +1,4 @@
-# SpawnsCore
 ![alt text](https://raw.githubusercontent.com/Trxgically/SpawnsCore/master/logo.png)
-
 # Why use SpawnsCore?
 SpawnsCore, set a spawn in a variety of commands! Simple. SpawnsCore has a highly customizable configuration file with more to come. SpawnsCore has the ability to set multiple spawnpoints, simple and fast!
 
